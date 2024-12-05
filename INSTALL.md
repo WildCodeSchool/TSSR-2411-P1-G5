@@ -9,7 +9,7 @@
 
 ### Sommaire
 
-- [Étape 1 : Télécharger KeePass 2](https://github.com/Corentin-974/TSSR-2409-P1-G5-/blob/main/INSTALL.md#--etape-1--t%C3%A9l%C3%A9charger-keepass2)
+- [Étape 1 : Télécharger KeePass 2](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/edit/main/INSTALL.md#etape-1--t%C3%A9l%C3%A9charger-keepass-2)
 - [Étape 2 : Lancer l'exécutable](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/edit/main/INSTALL.md#%C3%A9tape-2--lancer-lex%C3%A9cutable)
 - [Étape 3 : Lancer l'installation](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/edit/main/INSTALL.md#%C3%A9tape-3--lancer-linstallation)
 - [Étape 4 : Finaliser l'installation](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/edit/main/INSTALL.md#%C3%A9tape-4--finaliser-linstallation)
