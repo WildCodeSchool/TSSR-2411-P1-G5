@@ -12,9 +12,9 @@
 - [Étape 1 : Télécharger KeePass 2](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/blob/main/INSTALL.md#etape-1--t%C3%A9l%C3%A9charger-keepass-2)
 - [Étape 2 : Lancer l'exécutable](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/blob/main/INSTALL.md#%C3%A9tape-2--lancer-lex%C3%A9cutable)
 - [Étape 3 : Lancer l'installation](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/blob/main/INSTALL.md#%C3%A9tape-3--lancer-linstallation)
-- [Étape 4 : Finaliser l'installation](#étape-4-finaliser-linstallation)
-- [Étape 5 : Lancer KeePass 2](#étape-5-lancer-keepass-2)
-- [Étape 6 : Changement de langue (optionnel)](#étape-6-changement-de-langue-optionnel)
+- [Étape 4 : Finaliser l'installation](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/blob/main/INSTALL.md#%C3%A9tape-4--finaliser-linstallation)
+- [Étape 5 : Lancer KeePass 2](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/blob/main/INSTALL.md#%C3%A9tape-5--lancer-keepass-2)
+- [Étape 6 : Changement de langue (optionnel)](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/blob/main/INSTALL.md#%C3%A9tape-6--changement-de-langue--optionel)
 
 
 
