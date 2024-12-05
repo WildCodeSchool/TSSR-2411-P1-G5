@@ -98,21 +98,25 @@ Cliquez sur "OK" ou utilisez le raccourci Ctrl + S pour enregistrer l'entrée.
 ## Utiliser les mots de passe enregistrés
 
 - Ouvrir la base de données
+  
 Ouvrez KeePass avec la base de données contenant vos informations personnelles. Une fois ouverte, vous devrez rechercher l'entrée contenant le mot de passe souhaité.
 
 - Rechercher une entrée
+  
 Utilisez le raccourci Ctrl+F ou cliquez sur l'onglet "Find" puis "Find" pour lancer la recherche. Dans le champ "Find what", tapez simplement le nom recherché (site web, nom d'utilisateur, etc.). Les résultats s'afficheront en fonction des informations présentes dans vos entrées.
 
 ![Capture d'écran 2024-12-04 121928](https://github.com/user-attachments/assets/0c386ef1-cfd5-4787-8d91-bae7d62b4ed1)
 
 
 - Ouvrir un site
+  
 Une fois l'entrée trouvée, faites un clic droit dessus, puis sélectionnez "URL(s)" > "Open with ..." pour ouvrir le site associé dans votre navigateur.
 
 ![Capture d'écran 2024-12-04 122453](https://github.com/user-attachments/assets/a0604e5f-5854-4a69-ab25-361a32153c26)
 
 
 Saisie automatique
+
 Pour remplir automatiquement votre identifiant et mot de passe, placez le curseur sur le champ de connexion du site et appuyez sur Ctrl + V. KeePass saisira alors automatiquement vos informations de connexion.
 
 - Afficher ou copier un mot de passe
@@ -125,6 +129,7 @@ Vous pouvez aussi copier le mot de passe en le sélectionnant et en faisant un c
 ## **Modifier ou récupérer des informations d'une entrée**
 
 - Accéder aux informations
+  
 Pour récupérer des informations détaillées sur une entrée, faites un clic droit sur l'entrée désirée et sélectionnez "Edit entry". Vous aurez alors accès à toutes les informations liées à cette entrée (identifiant, mot de passe, URL, etc.).
 
 ![Capture d'écran 2024-12-04 122802](https://github.com/user-attachments/assets/4cc9c31e-b77f-49e3-a004-a96d68573176)
