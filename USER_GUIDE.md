@@ -24,6 +24,7 @@
 ![Capture d'écran 2024-12-04 120203](https://github.com/user-attachments/assets/4360b292-5ea0-4675-a0b6-d07c2485d628)
 
 - Choisir l'emplacement du fichier
+  
 Sélectionnez le dossier où vous souhaitez stocker le fichier .kdbx.
 
 ![Capture d'écran 2024-12-04 120432](https://github.com/user-attachments/assets/acd1709e-688e-4708-9097-cbe68198f548)
