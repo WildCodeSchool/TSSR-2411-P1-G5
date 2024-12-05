@@ -20,7 +20,7 @@
 
 
 
-###  - _**Etape 1 : Télécharger Keepass2**_ 
+###  - _**Etape 1 : Télécharger Keepass 2**_ 
 Rendez-vous sur le site officiel **[keepass](https://keepass.info/)** "À l'heure de la documentation, la version 2.57.1 est celle à télécharger."
 Cliquez sur le lien intitulé "KeePass 2.57.1 Released". (Si vous ne trouvez pas la version 2.57.1, téléchargez la version la plus récente ou, lors de la première utilisation, KeePass vous proposera une mise à jour automatique.)
 
