@@ -30,6 +30,7 @@ Sélectionnez le dossier où vous souhaitez stocker le fichier .kdbx.
 ![Capture d'écran 2024-12-04 120432](https://github.com/user-attachments/assets/acd1709e-688e-4708-9097-cbe68198f548)
 
 - Définir le MasterPassword
+  
 Ensuite, vous devrez définir un mot de passe principal, appelé "MasterPassword", qui permet d'accéder à la plateforme où vos mots de passe sont sauvegardés. Ce mot de passe doit être à la fois complexe et suffisamment facile à mémoriser.
 
 ![Capture d'écran 2024-12-04 120714](https://github.com/user-attachments/assets/034b1072-5a4a-44f3-b329-5ee50dd1e2d5)
