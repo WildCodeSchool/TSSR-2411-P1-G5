@@ -1,6 +1,23 @@
 # Projet 1 : Gestion Base de données chiffrée et sécurisée avec KeePass
 
-## Objectif principal
+# Sommaire
+
+[Objectif principal](#objectif-principal)
+
+[Contexte et introduction](#contexte-et-introduction)
+
+[Rôles des membres](#rôles-des-membres)
+
+[Choix techniques](#choix-techniques)
+
+[Difficultés rencontrés](#difficultés-rencontrés)
+
+[Les solutions](#les-solutions)
+
+[Améliorations possibles](#améliorations-possibles)
+
+
+# Objectif principal
 Création d’une base de données sécurisée et chiffrée, hébergée sur un serveur Windows Server 2022, et accessible à partir de plusieurs clients via le logiciel **KeePass**.
 
 ### Détails techniques
