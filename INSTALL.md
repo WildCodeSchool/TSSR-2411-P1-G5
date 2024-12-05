@@ -20,7 +20,7 @@
 
 
 
-##  - _**Etape 1 : Télécharger Keepass 2**_ 
+##  Etape 1 : Télécharger Keepass 2
 Rendez-vous sur le site officiel **[keepass](https://keepass.info/)** "À l'heure de la documentation, la version 2.57.1 est celle à télécharger."
 Cliquez sur le lien intitulé "KeePass 2.57.1 Released". (Si vous ne trouvez pas la version 2.57.1, téléchargez la version la plus récente ou, lors de la première utilisation, KeePass vous proposera une mise à jour automatique.)
 
@@ -32,13 +32,13 @@ Ce lien vous redirige vers la page de téléchargement, où plusieurs options de
 ![Capture d'écran 2024-11-27 084906](https://github.com/user-attachments/assets/2bc3ab47-197e-4a49-93bf-0846037c2a84)
 
 
-## - _**Étape 2 : Lancer l'exécutable**_
+## Étape 2 : Lancer l'exécutable
 
 Une fois le fichier téléchargé, cliquez sur l'exécutable pour démarrer l'installation.
 
 ![Capture d'écran 2024-11-27 085221](https://github.com/user-attachments/assets/21cc6c3f-ba79-4921-8b4f-e94da16aaa93)
 
-## - _**Étape 3 : Lancer l'installation**_
+## Étape 3 : Lancer l'installation
 
 Au début de l'installation, le logiciel vous demandera de choisir la langue de l'assistant d'installation. Sélectionnez "Français" et cliquez sur "Suivant".
 
@@ -68,18 +68,18 @@ Ensuite, KeePass vous proposera d'associer le logiciel avec l'extension de fichi
 ![Capture d'écran 2024-11-26 210950](https://github.com/user-attachments/assets/69be4cf7-fe93-4b4e-9e65-9f62516992f1)
 
 
-## - _**Étape 4 : Finaliser l'installation**_
+## Étape 4 : Finaliser l'installation
 - Cliquez sur "Installer" pour commencer l'installation avec les options que vous avez choisies.
 
 ![Capture d'écran 2024-11-26 211018](https://github.com/user-attachments/assets/bda2f763-99a6-49f2-a957-69c76f30bf6b)
 
 
-## - _**Étape 5 : Lancer KeePass 2**_
+## Étape 5 : Lancer KeePass 2
 - Une fois l'installation terminée, vous pouvez cliquer sur "Terminer" pour lancer KeePass. Vous aurez la possibilité de choisir si vous souhaitez exécuter le logiciel immédiatement, en laissant ou non la case "Exécuter KeePass" cochée.
 
 ![Capture d'écran 2024-11-26 211040](https://github.com/user-attachments/assets/ae73a1e8-a812-48da-9cd3-ceb8055768c4)
 
-## - _**Étape 6 : Changement de LANGUE ( Optionel)**_
+## Étape 6 : Changement de LANGUE ( Optionel)
 
 - Sur l'application aller sur l'onglet view puis Change Language
 
