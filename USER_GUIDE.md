@@ -40,8 +40,11 @@ Pour créer un mot de passe robuste, il est recommandé d'utiliser une passphras
 ![Capture d'écran 2024-12-04 120714](https://github.com/user-attachments/assets/ac31e32f-93e5-450d-824f-cdd9a9c7d723)
 
 - Activer les options avancées
-Cochez "Afficher les options de l'Expert". Vous aurez la possibilité d'améliorer la sécurité de la base de données en ajoutant un fichier clé, que vous pouvez créer en cochant "Ajouter un fichier clé" et en cliquant sur "Créer".
-Ce fichier clé contient une clé cryptée et ne doit pas être modifié, car toute modification vous empêcherait d'accéder à votre base de données. Il sert à réaliser une authentification à deux facteurs, renforçant ainsi la sécurité (le mot de passe principal + le fichier clé).
+Cochez "Afficher les options de l'Expert".
+
+Vous aurez la possibilité d'améliorer la sécurité de la base de données en ajoutant un fichier clé, que vous pouvez créer en cochant "Ajouter un fichier clé" et en cliquant sur "Créer".
+Ce fichier clé contient une clé cryptée et ne doit pas être modifié, car toute modification vous empêcherait d'accéder à votre base de données. 
+Il sert à réaliser une authentification à deux facteurs, renforçant ainsi la sécurité (le mot de passe principal + le fichier clé).
 
 ![Capture d'écran 2024-12-04 120904](https://github.com/user-attachments/assets/eae624ce-49aa-4f6d-b68c-5af393276d7a)
 
