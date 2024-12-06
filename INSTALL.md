@@ -3,7 +3,7 @@ Ce document présente la procédure d'installation de Windows Server 2022, Ubunt
 
 # SOMMAIRE 
 
-- [1ère partie : étapes d'installation et Configuration de Windows Server 2022](1ère-partie-:-étapes-d'installation-et-Configuration-de-Windows-Server-2022)
+- [1ère partie : étapes d'installation et Configuration de Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2411-P1-G5/edit/main/INSTALL.md#1%C3%A8re-partie--%C3%A9tapes-dinstallation-et-configuration-de-windows-server-2022)
 - [2ème partie : Guide d'installation v2.57.1 de KeePass2](2ème-partie-:-guide-d'installation-v2.57.1-de-KeePass2)
 - [3ème partie : installation keepass sur ubuntu](3ème-partie-:-installation-keepass-sur-ubuntu)
   
