@@ -240,6 +240,11 @@ Ensuite, KeePass vous proposera d'associer le logiciel avec l'extension de fichi
 
 # 3ème partie : installation keepass sur ubuntu
 
+Mettez les paquets Ubuntu à jour et installez les avec la commande:
+>sudo apt update && sudo apt upgrade
+
+![Capture d'écran 2024-12-06 103137](https://github.com/user-attachments/assets/0a63281a-4cc7-4702-8a18-174decd15953)
+
 Ouvrez un terminal et éxécuter la commande suivante pour installer keepass2:
 >sudo apt install keepass2
 
@@ -278,13 +283,28 @@ Allons enfants de la Patrie, Le jour de gloire est arrivé !
 
 ![Capture d'écran 2024-12-04 124741](https://github.com/user-attachments/assets/8f0b448f-96c5-4fb9-a553-f42ef2d412bd)
 
+Installer les outils cifs qui sont nécessaire pour monter et gérer des partages SMB/CIFS sur les systèmes Linux.
+>sudo apt-get install cifs-untils
+![Capture d'écran 2024-12-06 103210](https://github.com/user-attachments/assets/ff53711e-6532-45a0-b0e4-434ca367eebe)
+
 Creer un dossier /mnt/keepass qui sera le répertoire où le partage réseaux sera monté et ou seront accessibles les fichiers du partage
 >sudo mkdir /mnt/keepass
+
+Monter le partage réseaux cifs:
+>sudo mount -t cifs //172.16.10.10/DBKeepass /mnt/keepass -o username=CLILIN01,password=Azerty1*
 
 ![Capture d'écran 2024-12-05 100840](https://github.com/user-attachments/assets/c325ab5b-e027-49da-a30d-f0df53a16dc0)
 
 ![Capture d'écran 2024-12-04 125733](https://github.com/user-attachments/assets/28b234bb-6617-4f34-ab1d-b60374488634)
 
+Modifier le fichier fstab pour monter le partage automatiquement après chaque redémarrage
+>sudo nano /etc/fstab
+
 ![Capture d'écran 2024-12-04 130648](https://github.com/user-attachments/assets/b7a10c5e-780c-4b42-9752-6224cd44c4ff)
 
-![Capture d'écran 2024-12-04 130619](https://github.com/user-attachments/assets/bc9e8e6b-440a-4861-8d8c-bd618e1f8ab4)
+Ajouter l'entrée pour le partage CIFS 
+![Capture d'écran 2024-12-06 131853](https://github.com/user-attachments/assets/0abc32a2-d91c-408c-8235-ec1942637d0b)
+
+
+Ensuite tester si la configuration du fstab focntionne sans avoir besoin de redémarrer. (Si il n'y a pas d'erreur c'est que c'est bon.) 
+>sudo mount -a
