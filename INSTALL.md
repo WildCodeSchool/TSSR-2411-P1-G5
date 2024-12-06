@@ -122,7 +122,7 @@ Nous allons maintenant expliquer l'installation et la configuration de KeePass.
 
 
 
-# _**Guide d'installation v2.57.1 de KeePass2**_
+# _** 2ème partie : Guide d'installation v2.57.1 de KeePass2**_
 
 ### Sommaire
 
