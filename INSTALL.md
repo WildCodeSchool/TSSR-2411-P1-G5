@@ -1,4 +1,8 @@
 
+Ce document présente la procédure d'installation de Windows Server 2022, Ubuntu et Keepass. Certaines étapes sont expliquées de manière détaillée pour prendre en compte les différentes spécificités des installations et configurations.
+
+SOMMAIRE 
+
 # Etapes d'installation et Configuration de Windows Server 2022
 
 ## Configuration VM (VirtualBox)
