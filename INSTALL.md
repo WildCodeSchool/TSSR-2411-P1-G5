@@ -1,11 +1,15 @@
 
 Ce document présente la procédure d'installation de Windows Server 2022, Ubuntu et Keepass. Certaines étapes sont expliquées de manière détaillée pour prendre en compte les différentes spécificités des installations et configurations.
 
-SOMMAIRE 
+#SOMMAIRE 
 
-# Etapes d'installation et Configuration de Windows Server 2022
+- [1ère partie : étapes d'installation et Configuration de Windows Server 2022](1ère-partie-:-étapes-d'installation-et-Configuration-de-Windows-Server-2022)
+- [2ème partie : Guide d'installation v2.57.1 de KeePass2](2ème-partie-:-guide-d'installation-v2.57.1-de-KeePass2)
+- [3ème partie : installation keepass sur ubuntu](3ème-partie-:-installation-keepass-sur-ubuntu)
+  
+## 1ère partie : étapes d'installation et Configuration de Windows Server 2022
 
-## Configuration VM (VirtualBox)
+### Configuration VM (VirtualBox)
 
 - Sur votre VM, cliquer sur Nouvelle;
 - Nommer la machine SRVWIN01;
